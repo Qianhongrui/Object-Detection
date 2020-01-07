@@ -1,1 +1,2 @@
-# Object-Detection
+## 本 project 为样型识别作业
+整合：长庚大学资工系四年级 钱泓瑞
